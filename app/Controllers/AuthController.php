@@ -16,7 +16,6 @@ class AuthController extends ResourceController
      */
     public function index()
     {
-        $model = new AuthModel();
     }
 
     /**
